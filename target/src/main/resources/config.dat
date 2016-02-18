@@ -1,0 +1,3 @@
+serverPort=8888
+idList=1,2,3,4,5
+serverAddress=localhost
